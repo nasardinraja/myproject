@@ -1,0 +1,1 @@
+alert('bnj ceci est  un alert de test')
