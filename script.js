@@ -1,1 +1,5 @@
-alert('bnj ceci est  un alert de test')
+
+const alt=document.getElementById('alert');
+ alt.addEventListener('click' ,()=>{
+    alert(' bnj ceci un alert de test')
+ })
